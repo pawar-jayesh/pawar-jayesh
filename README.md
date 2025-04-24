@@ -111,9 +111,18 @@ link: https://github.com/Ileriayo/markdown-badges
 
 ###
 
+<!-- Error
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=pawar-jayesh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=pawar-jayesh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Error Loading Streak graph"  />
 </div>
+-->
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=pawar-jayesh&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
 
 ###
 
