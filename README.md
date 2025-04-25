@@ -11,7 +11,7 @@ github: https://github.com/DenverCoder1/readme-typing-svg?tab=readme-ov-file
   <!-- 
   link: https://shields.io/badges
   -->  
-  <a href="www.linkedin.com/in/jayesh-pawar-profile"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Jayesh%20Pawar-c6e2ff"></a> 
+  <a href="https://www.linkedin.com/in/jayesh-pawar-profile" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Jayesh%20Pawar-c6e2ff"></a> 
   <a href="mailto:pawar.jayesh.n@gmail.com"><img src="https://img.shields.io/badge/Email-pawar.jayesh.n%40gmail.com-c6e2ff"></a>
 
   <!-- Followers Git and Profile View
@@ -94,10 +94,10 @@ link: https://github.com/Ileriayo/markdown-badges
 
 ## 🎯 Certifications:
 
-🖥**Platform:** Udemy  <br>
-📚**Course:** The Complete JavaScript Course 2025: From Zero to Expert!  <br>
-⌛**Duration:** 71 hours  <br>
-🔗**Link:** <a href="https://www.udemy.com/certificate/UC-179e40cc-fb23-48eb-8511-6756b1419796/">Click to view certifcate </a>
+📚 **Course:** JavaScript <br>
+🖥 **Platform:** Udemy  <br>
+⌛ **Duration:** 71 hours  <br>
+🔗 **Link:** <a href="https://www.udemy.com/certificate/UC-179e40cc-fb23-48eb-8511-6756b1419796/">Click to view certifcate </a>
 
 
 ## :octocat: Github 
