@@ -96,7 +96,7 @@ link: https://github.com/Ileriayo/markdown-badges
 
 🖥**Platform:** Udemy  <br>
 📚**Course:** The Complete JavaScript Course 2025: From Zero to Expert!  <br>
-⌛**Duration:** 71 hours
+⌛**Duration:** 71 hours  <br>
 🔗**Link:** <a href="https://www.udemy.com/certificate/UC-179e40cc-fb23-48eb-8511-6756b1419796/">Click to view certifcate </a>
 
 
