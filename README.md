@@ -100,6 +100,11 @@ link: https://github.com/Ileriayo/markdown-badges
 🔗 **Link:** <a href="https://www.udemy.com/certificate/UC-179e40cc-fb23-48eb-8511-6756b1419796/">Click to view certifcate </a>
 
 
+📚 **Course:** DevOps <br>
+🖥 **Platform:** Udemy  <br>
+⌛ **Duration:** 53 hours  <br>
+🔗 **Link:** <a href="https://www.udemy.com/certificate/UC-ead23039-0368-42f8-85b2-f01945d5829a/">Click to view certifcate </a>
+
 ## :octocat: Github 
 <!--  Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawar-jayesh&show_icons=true&locale=en&layout=compact" alt="pawar-jayesh" /></p>
