@@ -94,16 +94,20 @@ link: https://github.com/Ileriayo/markdown-badges
 
 ## 🎯 Certifications:
 
-📚 **Course:** JavaScript <br>
-🖥 **Platform:** Udemy  <br>
-⌛ **Duration:** 71 hours  <br>
-🔗 **Link:** <a href="https://www.udemy.com/certificate/UC-179e40cc-fb23-48eb-8511-6756b1419796/">Click to view certifcate </a>
+📚 **Course:** AZ-900: Microsoft Azure Fundamentals <br>
+🔗 **Link:** <a href="https://learn.microsoft.com/api/credentials/share/en-us/JayeshPawar-0000/66A885C13C79D17E?sharingId=A9E99019C26B9744">Click to view certifcate </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+🖥 **Platform:** Microsoft 
 
+📚 **Course:** JavaScript <br>
+🔗 **Link:** <a href="https://www.udemy.com/certificate/UC-179e40cc-fb23-48eb-8511-6756b1419796/">Click to view certifcate </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+🖥 **Platform:** Udemy (71 hours) 
 
 📚 **Course:** DevOps <br>
-🖥 **Platform:** Udemy  <br>
-⌛ **Duration:** 53 hours  <br>
 🔗 **Link:** <a href="https://www.udemy.com/certificate/UC-ead23039-0368-42f8-85b2-f01945d5829a/">Click to view certifcate </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+🖥 **Platform:** Udemy (53 hours) 
 
 ## :octocat: Github 
 <!--  Stats:
